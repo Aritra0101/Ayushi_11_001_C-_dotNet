@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmG9IQ0xnZVFAJE7OZIxTUE7IeBO/BBPBeT+8k4cZTK39tAiUPcfgfRaKhSYPb4k5Xkj3JvOK+Z5gFWYKkZiDQ==",
+  "success": true,
+  "projectFilePath": "D:\\AAA___RIJU\\Projects -CS -CSE\\AyuShi C#\\proj\\proj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aritra Chatterjee\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Aritra Chatterjee\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}
